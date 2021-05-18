@@ -8,6 +8,7 @@ body{
 	font-family: sans-serif;
 	font-weight: bolder;
 	font-size: 20px;
+	margin-left:3%;
 	background: #eb8abc;
 	border-style: none;
 	box-shadow: 5px 5px 10px #de9db0,-5px -5px 10px #ffcde4;
